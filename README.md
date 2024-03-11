@@ -14,7 +14,7 @@
 - Комментирование вебинаров
 - Просмотр записей трансляций
 
-# Средства реализиции
+# Сервисы
 [YouTrack](https://cooldragon.youtrack.cloud/agiles/159-2/current)
 [Figma](https://www.figma.com/file/c5gCpr9cIJ7hNg8xs7qN2J/StreamEd?type=design&node-id=0%3A1&mode=design&t=nolXe1b3I4I015qY-1)
 [Miro](https://miro.com/app/board/uXjVNoCPtqw=/#tpicker-content)
