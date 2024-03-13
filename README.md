@@ -26,6 +26,7 @@
 [Презентация.pdf](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Prezentatsia.pdf)
 [Диаграммы](https://github.com/CooIDragon/StreamEd/tree/main/Диаграммы)
 [Анализ конкурентов](https://docs.google.com/spreadsheets/d/1383riqp5vGjvexs3P_38_LCcceV0jARoglfEVnOfb98/edit?usp=sharing)
+[Сопроводительное письмо](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Сопроводительное%20письмо.pdf)
 
 # Видео
 [Видео презентация](https://youtu.be/ubB8EnaBo1k)
