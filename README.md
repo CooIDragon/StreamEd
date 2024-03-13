@@ -16,16 +16,24 @@
 
 # Сервисы
 [YouTrack](https://cooldragon.youtrack.cloud/agiles/159-2/current)
+
 [Figma](https://www.figma.com/file/c5gCpr9cIJ7hNg8xs7qN2J/StreamEd?type=design&node-id=0%3A1&mode=design&t=nolXe1b3I4I015qY-1)
+
 [Miro](https://miro.com/app/board/uXjVNoCPtqw=/#tpicker-content)
 
 # Документация 
 [ТЗ.docx](https://github.com/CooIDragon/StreamEd/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/TZ.docx)
+
 [ТЗ.pdf](https://github.com/CooIDragon/StreamEd/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/TZ.pdf)
+
 [Презентация.pptx](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Prezentatsia.pptx)
+
 [Презентация.pdf](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Prezentatsia.pdf)
+
 [Диаграммы](https://github.com/CooIDragon/StreamEd/tree/main/Диаграммы)
+
 [Анализ конкурентов](https://docs.google.com/spreadsheets/d/1383riqp5vGjvexs3P_38_LCcceV0jARoglfEVnOfb98/edit?usp=sharing)
+
 [Сопроводительное письмо](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Сопроводительное%20письмо.pdf)
 
 # Видео
