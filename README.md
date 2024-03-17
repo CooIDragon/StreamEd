@@ -22,9 +22,9 @@
 [Miro](https://miro.com/app/board/uXjVNoCPtqw=/#tpicker-content)
 
 # Документация 
-[ТЗ.docx](https://github.com/CooIDragon/StreamEd/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/TZ.docx)
+[ТЗ.docx](https://github.com/CooIDragon/StreamEd/blob/main/Документация/ТЗ.docx)
 
-[ТЗ.pdf](https://github.com/CooIDragon/StreamEd/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/TZ.pdf)
+[ТЗ.pdf](https://github.com/CooIDragon/StreamEd/blob/main/Документация/ТЗ.pdf)
 
 [Презентация.pptx](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Prezentatsia.pptx)
 
