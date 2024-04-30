@@ -30,6 +30,8 @@
 
 [Презентация.pdf](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Prezentatsia.pdf)
 
+[Презентация. Аналитика и пользовательские сценарии](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Prezentatsia2.pdf)
+
 [Диаграммы](https://github.com/CooIDragon/StreamEd/tree/main/Диаграммы)
 
 [Анализ конкурентов](https://docs.google.com/spreadsheets/d/1383riqp5vGjvexs3P_38_LCcceV0jARoglfEVnOfb98/edit?usp=sharing)
