@@ -42,6 +42,7 @@
 
 # Видео
 [Видео презентация](https://youtu.be/ubB8EnaBo1k)
+[Видео презентация. Аналитика и пользовательские сценарии](https://youtu.be/v420tu2jW1Y)
 
 # Проект в Android Studio
 [Проект приложения (Frontend)](https://drive.google.com/drive/folders/1sD1HyQQ2TAwfHGBYzKXovDKh4NAfY0_S?usp=sharing)
