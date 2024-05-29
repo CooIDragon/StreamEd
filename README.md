@@ -30,7 +30,13 @@
 
 [Презентация.pdf](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Prezentatsia.pdf)
 
-[Презентация. Аналитика и пользовательские сценарии](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Prezentatsia2.pdf)
+[Презентация.pptx Аналитика и пользовательские сценарии](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Prezentatsia2.pptx)
+
+[Презентация.pdf Аналитика и пользовательские сценарии](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Prezentatsia2.pdf)
+
+[Презентация проекта.pptx](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Prezentatsia3.pptx)
+
+[Презентация проекта.pdf](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Prezentatsia3.pdf)
 
 [Диаграммы](https://github.com/CooIDragon/StreamEd/tree/main/Диаграммы)
 
