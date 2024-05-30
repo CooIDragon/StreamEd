@@ -1,3 +1,6 @@
 [submodule "StreamEd.server"]
 	path = StreamEd.server
 	url = https://github.com/CooIDragon/StreamEd.server.git
+[submodule "StreamEd.client"]
+	path = StreamEd.client
+	url = https://github.com/Meetin82/StreamEd.client.git
