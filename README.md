@@ -44,9 +44,9 @@
 
 [Сопроводительное письмо](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Сопроводительное%20письмо.pdf)
 
-[Курсовой проект.docx](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Курсовой%20проект.docx)
+[Курсовой проект.docx](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Курсовой%20проект2.docx)
 
-[Курсовой проект.pdf](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Курсовой%20проект.pdf)
+[Курсовой проект.pdf](https://github.com/CooIDragon/StreamEd/blob/main/Документация/Курсовой%20проект2.pdf)
 
 # Видео
 [Видео презентация](https://youtu.be/ubB8EnaBo1k)
