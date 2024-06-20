@@ -61,6 +61,8 @@
 
 [Видео с развертыванием приложения](https://youtu.be/35N55K0CKJY)
 
+[Видео презентации проекта](https://youtu.be/xxctZmZVtyM)
+
 
 
 
