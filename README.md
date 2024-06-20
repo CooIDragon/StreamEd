@@ -59,7 +59,7 @@
 
 [Видео с демонстрацией приложения](https://www.youtube.com/watch?v=HbYFRXA59Js)
 
-[Видео с развертыванием приложения] (https://youtu.be/35N55K0CKJY)
+[Видео с развертыванием приложения](https://youtu.be/35N55K0CKJY)
 
 # Проект в Android Studio
 [Проект приложения (Frontend)](https://drive.google.com/drive/folders/1sD1HyQQ2TAwfHGBYzKXovDKh4NAfY0_S?usp=sharing)
