@@ -50,10 +50,18 @@
 
 # Видео
 [Видео презентация](https://youtu.be/ubB8EnaBo1k)
+
 [Видео презентация. Аналитика и пользовательские сценарии](https://youtu.be/v420tu2jW1Y)
 
-# Проект в Android Studio
-[Проект приложения (Frontend)](https://drive.google.com/drive/folders/1sD1HyQQ2TAwfHGBYzKXovDKh4NAfY0_S?usp=sharing)
+[Видео с архитектурой Backend](https://youtu.be/5Zm7F_ZudNc)
+
+[Видео с архитектурой Frontend](https://www.youtube.com/watch?v=B0YsO3g9BoY)
+
+[Видео с демонстрацией приложения](https://www.youtube.com/watch?v=HbYFRXA59Js)
+
+[Видео с развертыванием приложения](https://youtu.be/35N55K0CKJY)
+
+[Видео презентации проекта](https://youtu.be/xxctZmZVtyM)
 
 
 
